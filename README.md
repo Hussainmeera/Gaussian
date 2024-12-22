@@ -39,16 +39,10 @@ for i in range(n-2,-1,-1):
     x[i]=x[i]/a[i][i]
 for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end = ' ')
-            
-```
-
+ ```           
 ## Output:
 ![gaussian elimination]()
-
 ![Screenshot 2024-12-01 220618](https://github.com/user-attachments/assets/8df06baa-2986-4054-a64b-2df1a9c6eb66)
-
-
-
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
